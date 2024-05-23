@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BrokerSystem/static/css/main.30a8cade.css",
-    "main.js": "/BrokerSystem/static/js/main.b500abd9.js",
+    "main.js": "/BrokerSystem/static/js/main.8a043dc6.js",
     "static/media/banner.png": "/BrokerSystem/static/media/banner.1a3c8a0a448e8e24f6a0.png",
     "index.html": "/BrokerSystem/index.html",
     "main.30a8cade.css.map": "/BrokerSystem/static/css/main.30a8cade.css.map",
-    "main.b500abd9.js.map": "/BrokerSystem/static/js/main.b500abd9.js.map"
+    "main.8a043dc6.js.map": "/BrokerSystem/static/js/main.8a043dc6.js.map"
   },
   "entrypoints": [
     "static/css/main.30a8cade.css",
-    "static/js/main.b500abd9.js"
+    "static/js/main.8a043dc6.js"
   ]
 }
