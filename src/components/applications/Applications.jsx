@@ -20,7 +20,7 @@ const Applications = () => {
     };
 
     // Send data to backend
-    fetch('http://localhost:8080/apartment/add', {
+    fetch('https://broker-system.azurewebsites.net/apartment/add', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

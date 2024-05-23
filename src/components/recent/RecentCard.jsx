@@ -7,7 +7,7 @@ const RecentCard = () => {
   
     // Fetch data when the component mounts
     useEffect(() => {
-      fetch('http://localhost:8080/apartment/getAll')
+      fetch('https://broker-system.azurewebsites.net/apartment/getAll')
         .then((response) => response.json())
         .then((data) => {
           setApartments(data);

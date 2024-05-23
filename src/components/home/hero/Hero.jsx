@@ -16,7 +16,7 @@ export default function Search() {
     console.log(count);
 
     // Define the URL and payload for the fetch request
-    const url = 'http://localhost:8080/apartment/search';
+    const url = 'https://broker-system.azurewebsites.net/apartment/search';
     const payload = {
       rooms: count,
       area: area,
