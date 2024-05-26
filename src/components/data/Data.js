@@ -121,7 +121,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: 'cargo-placement-react/city-1.png',
+    cover: 'BrokerSystem/city-1.png',
   },
   {
     id: 2,
@@ -129,7 +129,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "cargo-placement-react/city-2.png",
+    cover: "BrokerSystem/city-2.png",
   },
   {
     id: 3,
@@ -137,7 +137,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "cargo-placement-react/city-3.png",
+    cover: "BrokerSystem/city-3.png",
   },
   {
     id: 4,
@@ -145,7 +145,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "cargo-placement-react/city-4.png",
+    cover: "BrokerSystem/city-4.png",
   },
   {
     id: 5,
@@ -153,7 +153,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "cargo-placement-react/city-5.png",
+    cover: "BrokerSystem/city-5.png",
   },
   {
     id: 6,
@@ -161,7 +161,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "cargo-placement-react/city-6.png",
+    cover: "BrokerSystem/city-6.png",
   },
 ]
 export const team = [
