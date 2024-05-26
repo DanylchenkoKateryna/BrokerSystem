@@ -17,7 +17,7 @@ const Applications = () => {
       floor,
       area,
       district,
-      imgUrl:"BrokerSystem/p-1.png"
+      imgUrl:"/p-1.png"
     };
 
     // Send data to backend
