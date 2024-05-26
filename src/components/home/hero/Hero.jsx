@@ -23,7 +23,7 @@ export default function Search() {
       area: area,
       floor: floor,
       district: district,
-      imgUrl:"/p-1.png"
+      imgUrl:"BrokerSystem/p-5.png"
     };
 
     // Make the fetch request
