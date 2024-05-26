@@ -23,7 +23,7 @@ export default function Search() {
       area: area,
       floor: floor,
       district: district,
-      imgUrl:null
+      imgUrl:'/p-1.png'
     };
 
     // Make the fetch request
