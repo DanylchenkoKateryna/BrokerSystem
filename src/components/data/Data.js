@@ -120,7 +120,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-1.png",
+    cover: "./images/city-1.png",
   },
   {
     id: 2,
@@ -128,7 +128,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-2.png",
+    cover: "./images/city-2.png",
   },
   {
     id: 3,
@@ -136,7 +136,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-3.png",
+    cover: "./images/city-3.png",
   },
   {
     id: 4,
@@ -144,7 +144,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-4.png",
+    cover: "./images/city-4.png",
   },
   {
     id: 5,
@@ -152,7 +152,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-5.png",
+    cover: "./images/city-5.png",
   },
   {
     id: 6,
@@ -160,7 +160,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-6.png",
+    cover: "./images/city-6.png",
   },
 ]
 export const team = [
