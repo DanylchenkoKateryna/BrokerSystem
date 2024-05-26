@@ -25,7 +25,7 @@ const RecentCard = () => {
           return (
             <div className='box shadow' key={index}>
               <div className='img'>
-                <img src={imgUrl} alt='' />
+                <img src={'BrokerSystem'+{imgUrl}} alt='' />
               </div>
               <div className='text'>
                 <div className='category flex'>

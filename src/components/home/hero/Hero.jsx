@@ -13,7 +13,7 @@ export default function Search() {
 
   // Define the function to handle the search action
   const handleSearch = () => {
-    console.log('good');
+    console.log('good1');
     console.log(count);
 
     // Define the URL and payload for the fetch request
@@ -23,7 +23,7 @@ export default function Search() {
       area: area,
       floor: floor,
       district: district,
-      imgUrl:"BrokerSystem/p-5.png"
+      imgUrl:"/p-5.png"
     };
 
     // Make the fetch request
