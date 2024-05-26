@@ -30,12 +30,12 @@ const RecentCard = () => {
               <div className='text'>
                 <div className='category flex'>
                 </div>
-                <h4>Rooms Count:{rooms}</h4>
-                <h4>Area: {area}</h4>
-                <h4>Floor: {floor}</h4>
+                <h4>Кількість кімнат:{rooms}</h4>
+                <h4>Площа: {area}</h4>
+                <h4>Поверх: {floor}</h4>
                 <p>
                   <h4></h4>
-                  <i className='fa fa-location-dot'></i> District:{district}
+                  <i className='fa fa-location-dot'></i> Район:{district}
                   
                 </p>
               </div>

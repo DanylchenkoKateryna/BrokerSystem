@@ -43,11 +43,11 @@ const Applications = () => {
     <>
       <section className='recent padding'>
     <div>
-      <h1>Add Apartment</h1>
+      <h1>Додати квартиру</h1>
       <form onSubmit={handleSubmit}>
         <div>
           <label>
-            Rooms:
+            Кількість кімнат:
             <input
               type="number"
               value={rooms}
@@ -58,7 +58,7 @@ const Applications = () => {
         </div>
         <div>
           <label>
-            Floor:
+            Поверх:
             <input
               type="number"
               value={floor}
@@ -69,7 +69,7 @@ const Applications = () => {
         </div>
         <div>
           <label>
-            Area (sqm):
+            Площа:
             <input
               type="number"
               value={area}
@@ -80,7 +80,7 @@ const Applications = () => {
         </div>
         <div>
           <label>
-            District:
+            Район:
             <input
               type="text"
               value={district}
@@ -89,7 +89,7 @@ const Applications = () => {
             />
           </label>
         </div>
-        <button type="submit">Save Apartment</button>
+        <button type="submit">Зберегти</button>
       </form>
     </div>
     </section>

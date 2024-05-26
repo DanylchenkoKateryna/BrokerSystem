@@ -49,39 +49,39 @@ export default function Search() {
     <>
       <section className='hero'>
         <div className='container'>
-          <Heading title='Search Your Next Home ' subtitle='Find new & featured property located in your local city.' />
+          <Heading title='Знайди свою домівку' subtitle='Знайдіть нову нерухомість у своєму місті.' />
 
           <form className='flex'>
             <div className='box'>
-              <span>Room</span>
+              <span>Кількість кімнат</span>
               <input className='count' type="text"
         value={count}
         onChange={e => setCount(e.target.value)}
-        placeholder="Count" />
+        placeholder="Кількість" />
             </div>
             <div className='box'>
-              <span>Floor</span>
+              <span>Поверх</span>
               <input className='floor' type="text"
         value={floor}
         onChange={e => setFloor(e.target.value)}
-        placeholder="Floor"/>
+        placeholder="Поверх"/>
             </div>
             <div className='box'>
-              <span>Area</span>
+              <span>Площа</span>
               <input className='area' type="text"
         value={area}
         onChange={e => setArea(e.target.value)}
-        placeholder="Area" />
+        placeholder="Площа" />
             </div>
             <div className='box'>
-              <span>District</span>
+              <span>Район</span>
               <input className='district' type="text"
         value={district}
         onChange={e => setDistrict(e.target.value)}
-        placeholder="District" />
+        placeholder="Район" />
             </div>
             <div className='box'>
-              <h4>Advance Filter</h4>
+              <h4>Фільтр</h4>
             </div>
             <button className='btn1' onClick={handleSearch}>
               <i className='fa fa-search'></i>
