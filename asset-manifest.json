@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/BrokerSystem/cargo-placement-react/static/css/main.22714d98.css",
-    "main.js": "/BrokerSystem/cargo-placement-react/static/js/main.aab931d7.js",
-    "static/media/banner.png": "/BrokerSystem/cargo-placement-react/static/media/banner.1a3c8a0a448e8e24f6a0.png",
-    "index.html": "/BrokerSystem/cargo-placement-react/index.html",
-    "main.22714d98.css.map": "/BrokerSystem/cargo-placement-react/static/css/main.22714d98.css.map",
-    "main.aab931d7.js.map": "/BrokerSystem/cargo-placement-react/static/js/main.aab931d7.js.map"
+    "main.css": "/BrokerSystem/static/css/main.30a8cade.css",
+    "main.js": "/BrokerSystem/static/js/main.530e6006.js",
+    "static/media/banner.png": "/BrokerSystem/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/BrokerSystem/index.html",
+    "main.30a8cade.css.map": "/BrokerSystem/static/css/main.30a8cade.css.map",
+    "main.530e6006.js.map": "/BrokerSystem/static/js/main.530e6006.js.map"
   },
   "entrypoints": [
-    "static/css/main.22714d98.css",
-    "static/js/main.aab931d7.js"
+    "static/css/main.30a8cade.css",
+    "static/js/main.530e6006.js"
   ]
 }
