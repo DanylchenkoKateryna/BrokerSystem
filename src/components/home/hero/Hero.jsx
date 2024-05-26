@@ -9,6 +9,7 @@ export default function Search() {
   const [floor, setFloor] = useState('');
   const [area, setArea] = useState('');
   const [district, setDistrict] = useState('');
+  const [url, setUrl] = useState('');
 
   // Define the function to handle the search action
   const handleSearch = () => {
@@ -21,7 +22,8 @@ export default function Search() {
       rooms: count,
       area: area,
       floor: floor,
-      district: district
+      district: district,
+      imgUrl:"/p-1.png"
     };
 
     // Make the fetch request
